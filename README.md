@@ -5,7 +5,7 @@
 * 🍝Стремлюсь писать код понятный другим разработчикам
 * 🏋🏻‍♀️Открыта к новым технологиям
 
-### Мой стек: *HTML *CSS *Javascript *React *git
+### Мой стек: * HTML * CSS * Javascript * React * git
 <div display="inline">
 <p display="inline" size="18">HTML</p>
 <p display="inline" size="18">CSS</p>
