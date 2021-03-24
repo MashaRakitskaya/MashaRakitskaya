@@ -7,5 +7,9 @@
 
 ### Мой стек:
 <div display="inline">
-<p size="18">HTML</p><p size="18">CSS</p><p size="18">Javascript</p><p size="18">React</p><p size="18">git</p>
+<p display="inline" size="18">HTML</p>
+<p display="inline" size="18">CSS</p>
+<p display="inline" size="18">Javascript</p>
+<p display="inline" size="18">React</p>
+<p display="inline" size="18">git</p>
 </div>
