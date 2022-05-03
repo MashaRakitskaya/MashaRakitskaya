@@ -5,5 +5,5 @@
 * 🍝I strive to write code that is understandable to other developers
 * 🏋🏻‍♀️Open to new technologies
 
-### My stack:  * HTML/CSS3/SCSS * Javascript * React * git * Redux * Typescript
+### My technology stack:  * HTML/CSS3/SCSS * Javascript * React * git * Redux * Typescript
 
