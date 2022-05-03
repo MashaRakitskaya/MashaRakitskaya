@@ -1,8 +1,9 @@
-### Привет, меня зовут Мария 👋
+### Hi, my name is Masha 👋
 
-* 🎨Нравится реализовывать задумки дизайнеров
-* 🚣🏻‍♀️🚣‍♂️🚣🏿Командый работник
-* 🍝Стремлюсь писать код понятный другим разработчикам
-* 🏋🏻‍♀️Открыта к новым технологиям
+* 🎨I like to implement the ideas of designers
+* 🚣🏻‍♀️🚣‍♂️🚣🏿Team worker
+* 🍝I strive to write code that is understandable to other developers
+* 🏋🏻‍♀️Open to new technologies
 
-### Мой стек: * HTML * CSS * Javascript * React * git * Redux
+### My stack:  * HTML/CSS3/SCSS * Javascript * React * git * Redux * Typescript
+
